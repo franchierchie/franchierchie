@@ -10,7 +10,7 @@ I mostly use **React**, **JavaScript**, and **CSS**.
 
 ### 📫 Contact
 You can reach me here:  
-[✉franchierchie@gmail.com](mailto:franchierchie@gmail.com)
+✉[franchierchie@gmail.com](mailto:franchierchie@gmail.com)
 
 ---
 
