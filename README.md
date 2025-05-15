@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm [Your Name] 👋
 
-<!--
-**franchierchie/franchierchie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm learning frontend development and building projects to improve my skills.  
+I mostly use **React**, **JavaScript**, and **CSS**.
 
-Here are some ideas to get you started:
+### 🌱 What I'm working on
+- Personal projects to practice React and UI design.
+- Learning about accessibility and responsive design.
+- Improving my Git and GitHub workflow.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Contact
+You can reach me here:  
+[Email](mailto:franchierchie@gmail.com)
+
+---
+
+> I'm open to learning and collaboration. If you have tips, feedback, or just want to say hi, feel free to message me.
+>
+> 
