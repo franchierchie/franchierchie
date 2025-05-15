@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Franco Chierchie 👋
 
 I'm learning frontend development and building projects to improve my skills.  
 I mostly use **React**, **JavaScript**, and **CSS**.
